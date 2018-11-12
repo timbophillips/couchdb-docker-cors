@@ -56,6 +56,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-# keep the settings but not the data
-couchdb-data/
