@@ -56,3 +56,8 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# so that any persistent changes I make aren't
+# sent back up to github
+couchdb-settings/
+couchdb-data/
