@@ -61,3 +61,4 @@ typings/
 # sent back up to github
 couchdb-settings/
 couchdb-data/
+local.ini.cors
