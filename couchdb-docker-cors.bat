@@ -1,3 +1,4 @@
+#!/bin/bash
 docker stop couchdb-cors
 docker system prune --force
 docker build . -t couchdb-cors
